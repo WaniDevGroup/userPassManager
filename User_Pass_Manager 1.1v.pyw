@@ -8,7 +8,7 @@
                 +   About   :    Generates usernames and passwords and writes the output to a text file                      +
                 +   Date and Time Created :    July 2, 2019    10:46:34:02 AM				                     +
                 +   Target System :  Windows, Mac OS X, GNU/Linux					                     +               
-                +   Maintainer :  princeofori3050@gmail.com                                                                  +
+                +   Maintainer :  PRINCE OFORI                                                                    +
                 +                                                                                                            +
                 +                                                                                                            +
                 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
